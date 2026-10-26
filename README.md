@@ -1,2 +1,2 @@
-# Taller3-Automatizacion-Cotizaciones
+# Taller03-Automatizacion Cotizaciones
 Comparador automático de cotizaciones de proveedores
